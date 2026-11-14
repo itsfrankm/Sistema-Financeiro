@@ -1,0 +1,22 @@
+{
+  "name": "Gestor Financeiro",
+  "short_name": "Gestor Financeiro",
+  "description": "Sistema Planejador Financeiro Web & Mobile com Regra 50-30-20, Fluxo de Caixa Projetado, Cartões e Relatórios PDF A4.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "lang": "pt-BR",
+  "categories": ["finance", "productivity", "business"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
