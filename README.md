@@ -68,6 +68,13 @@ Aplicação web responsiva (PWA) para planejamento e controle financeiro pessoal
 
 ---
 
+## 📦 Conta de Teste
+
+```
+User: atconvidado@gmail.com
+Senha: 123456
+```
+
 ## Como Rodar Localmente
 
 ### 1. Instalar dependências
