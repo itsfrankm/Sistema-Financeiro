@@ -21,9 +21,8 @@ Aplicação web responsiva (PWA) para planejamento e controle financeiro pessoal
   - Receitas, despesas e transferências com natureza **variável**, **fixa mensal** (projeção automática de 12 meses) ou **parcelada** em múltiplas parcelas.
 - **Planejamento, Orçamentos & Metas**:
   - Definição de tetos mensais por categoria e metas financeiras com registro de aportes.
-  - Análise configurável pela **Regra 50-30-20** (**Essencial**, **Estilo de Vida** e **Futuro**).
-- **Relatórios Executivos em PDF A4 & Backup JSON**:
-  - Visualizações **Diária**, **Semanal** (semanas do mês), **Mensal** e **Anual**, com exportação paginada em **PDF A4**.
+- **Relatórios Executivos em PDF & Backup**:
+  - Visualizações **Diária**, **Semanal** (semanas do mês), **Mensal** e **Anual**, com exportação **PDF**.
   - Exportação e importação completa de dados via arquivo **JSON**.
 - **Personalização & Temas**:
   - 5 paletas de cores (*Verde Claro*, *Roxo*, *Azul Escuro*, *Âmbar* e *Preto e Branco*), suporte a **Modo Escuro / Claro**, foto/logo de perfil e seleção de moeda (`BRL`, `USD`, `EUR`).
